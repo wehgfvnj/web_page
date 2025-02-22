@@ -1,0 +1,33 @@
+.footer-colums{
+    display: flex;
+}
+.footer-colums{
+    flex: 50%;
+    margin: 20px;
+}
+header, footer{
+background-color: #38b6ff;
+padding: 10px;
+}
+main{
+padding: 10px;
+background-color: silver;
+}
+.post{
+    background-color: whitesmoke;
+    padding: 20px;
+    break-inside: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+    .post img{ 
+        margin: 20px;
+    }
+h1,h2,h3,h4,h5,h6{
+    font-family: "Barlow Static", sans-serif;
+    font-weight: 600;
+}
+p{
+font-family: "Roboto", sans-serif
+font-weight;400;
+}
